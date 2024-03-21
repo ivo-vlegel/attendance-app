@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIF+yiFYDE2HFgeKHwv0IOdpYLvu5n4BsutrwPKrOHoOjyDh6e54tYlrxYerTWKXi7Tgp9KE4MuCq6P+UZ9EIw==",
+  "success": true,
+  "projectFilePath": "C:\\repository\\Attendance-app\\Webapp\\Webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IvoLimberg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\IvoLimberg\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\IvoLimberg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\IvoLimberg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
